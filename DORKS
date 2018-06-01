@@ -26,15 +26,7 @@ _news/news.php?id=
 "Can't connect to local" intitle:warning
 "Certificate Practice Statement" inurl:(PDF | DOC)
 "Chatologica MetaSearch" "stack tracking:"
-"Chatologica MetaSearch" "stack tracking"
-"detected an internal error [IBM][CLI Driver][DB2/6000]"
-"Duclassified" -site:duware.com "DUware All Rights reserved"
-"duclassmate" -site:duware.com
-"Dudirectory" -site:duware.com
-"dudownload" -site:duware.com
-"Dumping data for table"
-"DUpaypal" -site:duware.com
-"Elite Forum Version *.*"
+"CElite Forum Version *.*"
 "Emergisoft web applications are a part of our"
 "Error Diagnostic Information" intitle:"Error Occurred While"
 "error found handling the request" cocoon filetype:xml
