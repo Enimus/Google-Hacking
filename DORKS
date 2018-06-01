@@ -1436,17 +1436,7 @@ home.php?pr=
 home.php?pre=
 home.php?qry=
 home.php?read=
-home.php?recipe=
-home.php?redirect=
-home.php?ref=
-home.php?rub=
-home.php?sec=
-home.php?secao=
-home.php?section=
-home.php?seite=
-home.php?sekce=
-home.php?showpage=
-home.php?sp=
+
 home.php?str=
 home.php?thispage=
 home.php?tipo=
@@ -6606,14 +6596,6 @@ Lain-lain
 .scan administrator/components/com_comprofiler/plugin.class.php?mosConfig_absolute_path= “/com_comprofiler” “/com_comprofiler”
 .scan content.php?page= inurl:”*content.php?page=*.php”
 .scan index.php?u= inurl:”/index.php?u=*.php”
-.scan index.php?topic= inurl:”/index.php?topic=*.php”
-.scan /modules/Forums/admin/admin_db_utilities.php?phpbb_root_path= “PHP-NUKE” asia
-.scan /squirrelcart/cart_content.php?cart_isp_root= allinurl:/squirrelcart/
-.scan /includes/orderSuccess.inc.php?glob=1&cart_order_id=1&glob[rootDir]= “powered by CubeCart 3.0.6?
-.scan show.php?path= inurl:fclick
-.scan bookmark4u/lostpasswd.php?env%5Binclude_prefix%5D= “bookmark4u es” “bookmark4u es”
-.scan administrator/components/com_cropimage/admin.cropcanvas.php?cropimagedir= “/com_cropimage/” “/com_cropimage/”
-.scan /?mosConfig_absolute_path= “Joomla Is” site:com
 .scan /?mosConfig_absolute_path= “Joomla Is” site:net
 .scan protection.php?action=logout&siteurl= statcounter
 .scan /?mosConfig_absolute_path= “Joomla Is” site:org
@@ -6649,17 +6631,6 @@ Lain-lain
 .scan main.php?path= “main.php?path=”
 .scan inc/cmses/aedating4CMS.php?dir[inc]= inurl:flashchat site:br bp_ncom.php?bnrep= “Script r?alis? par BinGo PHP”
 .scan active/components/xmlrpc/client.php?c[components]= “Pindorama”
-.scan modules/PNphpBB2/includes/functions_admin.php?phpbb_root_path= “PNphpBB2?:.de
-.scan /includes/mailaccess/pop3.php?CONFIG[pear_dir]= “mailaccess”
-.scan /components/com_thopper/inc/contact_type.php?mosConfig_absolute_path= “com_thopper”
-.scan /encapscms_PATH/core/core.php?root= “encapscms 0.3.6? “encapscms 0.3.6?
-.scan ipblock.inc.php?path_escape= “XZero” “XZero”
-.scan /tellmatic/include/libchart-1.1/libchart.php?tm_includepath= “Tellmatic 1.0.7.1?
-.scan language/lang_english/lang_main_album.php?phpbb_root_path= “based on phpBB”
-===
-1810 line
-====
-.scan /components/com_sef/sef.php?mosConfig_absolute_path= com_sef
 .scan /components/com_sef/sef_func.php?mosConfig_absolute_path= com_sef
 .scan /components/com_sef/sef_incl.php?mosConfig_absolute_path= com_sef
 .scan /components/com_sef/sef.php?mosConfig_absolute_path= com_sef
